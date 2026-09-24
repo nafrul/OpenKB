@@ -2013,7 +2013,7 @@ wheels = [
 
 [[package]]
 name = "openkb"
-version = "0.4.6"
+version = "0.4.6+hik"
 source = { editable = "." }
 dependencies = [
     { name = "click" },
